@@ -1,0 +1,41 @@
+.container-fluid {
+    margin: 15px;
+}
+
+.ttx {
+    color: black;
+    font-weight: 700;
+    margin-left: 10%;
+}
+
+.navbar-nav {
+    margin-left: 40%;
+}
+
+.nav-item a {
+    color: black;
+    font-weight: 500;
+}
+
+.carousel-caption {
+    margin-bottom: 60px;
+    padding: 18%;
+}
+
+.margin-section {
+    margin-bottom: 100px;
+}
+
+
+
+.width-section {
+    width: 90%;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.mid-txt-center {
+    padding-top: 400px;
+}
