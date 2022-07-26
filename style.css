@@ -23,19 +23,51 @@
 }
 
 .margin-section {
-    margin-bottom: 100px;
+    margin-bottom: 130px;
 }
-
-
 
 .width-section {
     width: 90%;
 }
 
+
+
+/*------Package Section-----*/
 h1 {
     font-weight: bolder;
 }
 
+p {
+    color: #848199;
+}
+
 .mid-txt-center {
-    padding-top: 400px;
+    padding-top: 1000px;
+}
+
+.font-weight {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+ul li {
+    list-style-type: none;
+    color: #848199;
+    font-weight: 400;
+}
+
+.text {
+    color: #E5E5E5;
+}
+
+.card {
+    border-radius: 30px;
+}
+
+
+/*------Clients Section-----*/
+.text-1 {
+    font-weight: 450;
 }
