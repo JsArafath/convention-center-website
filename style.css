@@ -1,73 +1,96 @@
-.container-fluid {
-    margin: 15px;
+/* moment section  -------------------
+ -------------------------*/
+.moment {
+    margin-top: 200px;
 }
 
-.ttx {
-    color: black;
-    font-weight: 700;
-    margin-left: 10%;
-}
-
-.navbar-nav {
-    margin-left: 40%;
-}
-
-.nav-item a {
-    color: black;
-    font-weight: 500;
-}
-
-.carousel-caption {
-    margin-bottom: 60px;
-    padding: 18%;
-}
-
-.margin-section {
-    margin-bottom: 130px;
-}
-
-.width-section {
-    width: 90%;
-}
-
-
-
-/*------Package Section-----*/
-h1 {
-    font-weight: bolder;
-}
-
-p {
-    color: #848199;
-}
-
-.mid-txt-center {
-    padding-top: 1000px;
-}
-
-.text-weight {
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-    margin-right: 10px;
+/* our packages section  -------------------
+ -------------------------*/
+.packages {
+    margin-top: 200px;
 }
 
 ul li {
     list-style-type: none;
-    color: #848199;
-    font-weight: 400;
 }
 
-.text {
-    color: #E5E5E5;
-}
-
-.card {
+.card-border {
     border-radius: 30px;
 }
 
+.bg-card {
+    background-color: #659bd2;
+    padding-top: 20px;
+    box-shadow: 0px 20px 20px lightgray;
+}
 
-/*------Clients Section-----*/
-.text-1 {
-    font-weight: 450;
+.special-card {
+    margin-left: -15px;
+}
+
+.badge-style {
+    margin-left: -50px;
+    padding: 8px;
+}
+
+/* banner carousel section  -------------------
+ -------------------------*/
+.banner-button {
+    text-decoration: none;
+    color: white;
+}
+
+.carousel-item {
+    height: 85vh;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-title-3,
+.carousel-title-2 {
+    margin-left: 30px;
+    font-weight: bolder;
+
+}
+
+.carousel-title-1 {
+    font-weight: bolder;
+
+}
+
+.upper {
+    margin-bottom: 100px;
+}
+
+/* clients section  -------------------
+ -------------------------*/
+.clients {
+    margin-top: 200px;
+}
+
+/* frequently asked question section  -------------------
+ -------------------------*/
+.faq {
+    margin-top: 200px;
+}
+
+/* subscribe section  -------------------
+ -------------------------*/
+.subscribe {
+    margin-top: 170px;
+}
+
+/* booking section  -------------------
+ -------------------------*/
+.booking-convention-center {
+    margin-top: 200px;
+}
+
+/* footer section  -------------------
+ -------------------------*/
+footer {
+    margin-top: 200px;
 }
